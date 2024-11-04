@@ -29,8 +29,6 @@ submit.addEventListener('submit',(e)=>{
         }).then(
           message => alert(message)
         );
-        
-        
-        refresh();
+
 
 })
